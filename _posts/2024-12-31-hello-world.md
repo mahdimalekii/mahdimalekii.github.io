@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/images/cake.jpg
+  path: /assets/images/cake.png
   alt: I cooked the first cake in my life :)
 ---
 
