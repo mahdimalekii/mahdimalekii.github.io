@@ -9,25 +9,12 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/images/basestation.jpg
-  alt: this is a basestation :)
+  path: /assets/images/cake.jpg
+  alt: I cooked the first cake in my life :)
 ---
 
-# THIS is the a test
+# New cake
 
-Hello world! This is my first post.
-Update this post!
-
-## Section 1
-
-I am a good researcher
-
-## Section 2
-
-I want to do **research** on ...
-
-|header1|header2|
-|:----:|:---|
-|cell 1|cell 2|
+This is the first cake of my life. I had enough time for christmas time in Italy, and I finally did it!
 
 
