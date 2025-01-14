@@ -1,6 +1,6 @@
 ---
 title: A very exciting cake 
-description: This is my post description
+description: I cooked the first cake in my life :)
 author: mahdi
 date: 2024-12-31 20:50:00 +0100
 categories: []
